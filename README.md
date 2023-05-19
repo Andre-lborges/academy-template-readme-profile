@@ -1,23 +1,23 @@
 # academy-template-readme-profile
 
-# Oi, me chamo [Seu nome aqui] 👋
+# Oi, me chamo André Lucas 👋
 
-### Sobre mim
+Sendo bem sucinto, sou uma pessoa reservada nas primeiras impressões mas gosto muito de conversar, cultura nerd, ciencias no geral e jogos me atraem bastante, gosto de viajar e de conhecer coisas novas, culturas e novos pontos de vista, gosto de trabalhar com pessoas no geral e construir um hambiente bem leve. 
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
+💻 Eu sou um desenvolvedor Back-End
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Outro ] @ [ [Cubos Academy](https://cubos.academy/) | Faculdade | Escola | Curso]
+🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | ]
 
-👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
+👩‍💻 Atualmente eu trabalho como Administração e T.I  na CMA Vantagens, uma empresa de proteção veicular. 
 
-🔎 Também sou curioso sobre [Temas que você gosta]
+🔎 Também sou curioso sobre, Segurança da informação e automações de processos.
 
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
+✒️ Eu gosto de no meu tempo livre, ficar em call com meus amigos, jogando e conversando, ou vendo documentarios sobre o universo e lendo. 
 
-📚 Lendo: [Livro que está lendo atualmente]
+📚 Lendo: Guia do mochileiro das Galaxias. 
 
 ### Eu já trabalhei com... 🔧
 
